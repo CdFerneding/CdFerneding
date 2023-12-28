@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ## 🚀 About Me
-I am Conrad Ferneding, a student at the TH Brandenburg in Germany, Brandenburg. I've just finished my exchange semester in Norway and am currently trying to widen my knowledge about cybersecurity through ctf events. I hope to someday be able to work in security. I am trying to secure my already existing programming knowledge through leetcode.  
+I am Conrad Ferneding, a student at the TH Brandenburg in Germany, Brandenburg. I've just finished my exchange semester in Norway and I am currently trying to widen my knowledge about cybersecurity through ctf (capture the flag) events. I hope that I will be able to work in cybersecurity. I am trying to secure my already existing programming knowledge through leetcode.  
 
-I also interested in creating my own game in the future as I like to play games myself.  
+I am also interested in creating my own game in the future as I like to play games myself.  
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **sports: running, snowboarding**, **reading** and **listening to music**.
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies are snowboarding, reading, playing the piano and accordeon and listening to music.
 
 📫 How to reach me:  
 **mail**: conrad@ferneding.eu
