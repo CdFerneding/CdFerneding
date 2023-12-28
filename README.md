@@ -13,8 +13,9 @@ I am also interested in creating my own game in the future as I like to play gam
 ## 🔗 Links  
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/conrad-ferneding-resume.appspot.com/o/Conrad%20Ferneding%20Resume.pdf?alt=media&token=0d283f35-d410-41a8-b70f-95e53f560b37)
-<!--[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CdFerneding)-->
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/conrad-ferneding-924551245/)
+<!--[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CdFerneding)-->
+
 <!--
 **CdFerneding/CdFerneding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
