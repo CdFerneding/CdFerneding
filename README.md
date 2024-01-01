@@ -13,7 +13,7 @@ I am also interested in creating my own game in the future as I like to play gam
 ## 🔗 Links  
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/conrad-ferneding-924551245/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://ferneding.eu/conrad/wp-content/uploads/2024/01/Conrad-Ferneding-Resume.pdf)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://ferneding.eu/conrad/wp-content/uploads/2024/01/Conrad-Ferneding-Resumeenglish.pdf)
 <!--[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CdFerneding)-->
 
 <!--
