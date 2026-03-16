@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--## 🚀 About Me
 I am Conrad Ferneding, a student at the TH Brandenburg in Germany, Brandenburg. I've just finished my exchange semester in Norway and I am currently trying to widen my knowledge about cybersecurity through ctf (capture the flag) events. I hope that I will be able to work in cybersecurity. I am trying to secure my already existing programming knowledge through leetcode.  
