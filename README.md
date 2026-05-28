@@ -21,7 +21,6 @@ In meiner Arbeit kombiniere ich technische Präzision mit einer strategischen De
 * **Strategie & Analyse:** Als aktiver **Turnierschachspieler** bin ich darauf trainiert, Muster schnell zu erkennen und mehrere Züge vorauszudenken – eine Kernkompetenz im Threat Hunting.
 * **Kreativität & Koordination:** Das **Akkordeonspielen** ist mein kreativer Ausgleich, der gleichzeitig logisches Verständnis, Fokus und die Koordination komplexer, paralleler Prozesse schärft.
 * **Disziplin & Fokus:** Meine mentale Stärke und Ausdauer stelle ich beim **Langstreckenlauf** unter Beweis (z. B. beim Ultra X Scotland 50km). Diese Hartnäckigkeit hilft mir dabei, auch bei komplexen forensischen Analysen am Ball zu bleiben.
-* **Teamwork unter Druck:** Durch kompetitives **Online-Gaming** (League of Legends) habe ich gelernt, auch in zeitkritischen und stressigen Situationen (Incident Response Style) präzise zu kommunizieren und im Team zu agieren.
 
 ---
 
