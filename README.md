@@ -40,4 +40,4 @@ In meiner Arbeit kombiniere ich technische Präzision mit einer strategischen De
 * **Standort:** Augsburg, Deutschland
 
 ---
-*„Threat Hunting ist wie eine Schachpartie gegen einen unsichtbaren Gegner – man muss die Regeln kennen, um sie zu brechen.“*
+<!--*„Threat Hunting ist wie eine Schachpartie gegen einen unsichtbaren Gegner – man muss die Regeln kennen, um sie zu brechen.“*-->
