@@ -1,32 +1,44 @@
-### Hello there 👋
+# Moin, ich bin Conrad! 👋
 
-<!--## 🚀 About Me
-I am Conrad Ferneding, a student at the TH Brandenburg in Germany, Brandenburg. I've just finished my exchange semester in Norway and I am currently trying to widen my knowledge about cybersecurity through ctf (capture the flag) events. I hope that I will be able to work in cybersecurity. I am trying to secure my already existing programming knowledge through leetcode.  
+### Security Analyst | Detection Engineer | M.Sc. Informatik Student
 
-I am also interested in creating my own game in the future as I like to play games myself.  
+Ich bin ein leidenschaftlicher Cybersecurity-Experte mit einem starken Fokus auf **Threat Hunting** und **Detection Engineering**. Aktuell vertiefe ich mein Wissen im Masterstudium an der TH Augsburg, während ich als Security Analyst bei der Orange Cyberdefense GmbH reale Bedrohungen analysiere.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies are snowboarding, reading, playing the piano and accordeon and listening to music.
+---
 
-📫 How to reach me:  
-**mail**: conrad@ferneding.eu
+## 🛠 Tech Stack & Expertise
 
-## 🔗 Links  
+* **Cybersecurity:** Threat Hunting, Detection Engineering, Incident Analysis.
+* **Software Development:** Full Stack Development (Java EE, Python), Git-basierte Workflows.
+* **Sprachen:** Deutsch (Muttersprache), Englisch (C1/C2 - Fließend), Norwegisch (A1 - Grundkenntnisse).
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/conrad-ferneding-924551245/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://ferneding.eu/conrad/wp-content/uploads/2024/01/Conrad-Ferneding-Resumeenglish.pdf)-->
-<!--[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/CdFerneding)-->
+---
 
-<!--
-**CdFerneding/CdFerneding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 Über mich & Arbeitsweise
 
-Here are some ideas to get you started:
+In meiner Arbeit kombiniere ich technische Präzision mit einer strategischen Denkweise, die ich außerhalb der digitalen Welt stetig weiterentwickle:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Strategie & Analyse:** Als aktiver **Turnierschachspieler** bin ich darauf trainiert, Muster schnell zu erkennen und mehrere Züge vorauszudenken – eine Kernkompetenz im Threat Hunting.
+* **Kreativität & Koordination:** Das **Akkordeonspielen** ist mein kreativer Ausgleich, der gleichzeitig logisches Verständnis, Fokus und die Koordination komplexer, paralleler Prozesse schärft.
+* **Disziplin & Fokus:** Meine mentale Stärke und Ausdauer stelle ich beim **Langstreckenlauf** unter Beweis (z. B. beim Ultra X Scotland 50km). Diese Hartnäckigkeit hilft mir dabei, auch bei komplexen forensischen Analysen am Ball zu bleiben.
+* **Teamwork unter Druck:** Durch kompetitives **Online-Gaming** (League of Legends) habe ich gelernt, auch in zeitkritischen und stressigen Situationen (Incident Response Style) präzise zu kommunizieren und im Team zu agieren.
+
+---
+
+## 🎓 Ausbildung & Stationen
+
+* **M.Sc. Informatik**, Technische Hochschule Augsburg (Aktuell)
+* **B.Sc. Informatik**, Technische Hochschule Brandenburg
+* **Auslandssemester**, NTNU - Norwegian University of Science and Technology
+* **Security Analyst**, Orange Cyberdefense GmbH
+* **Full Stack Developer**, TH Brandenburg
+
+---
+
+## 📫 Kontakt
+
+* **Website/E-Mail:** [conrad@ferneding.eu](mailto:conrad@ferneding.eu)
+* **Standort:** Augsburg, Deutschland
+
+---
+*„Threat Hunting ist wie eine Schachpartie gegen einen unsichtbaren Gegner – man muss die Regeln kennen, um sie zu brechen.“*
